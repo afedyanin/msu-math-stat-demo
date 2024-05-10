@@ -14,3 +14,7 @@
 - [Семейство тестов хи-квадрат: что у них под капотом и какие выбрать для сравнения воронок](https://habr.com/ru/companies/mygames/articles/677074/)
 - [Критерии согласия в scipy](https://mipt-stats.gitlab.io/files/applied_stats_19/lectures/%D0%9A%D1%80%D0%B8%D1%82%D0%B5%D1%80%D0%B8%D0%B8%20%D1%81%D0%BE%D0%B3%D0%BB%D0%B0%D1%81%D0%B8%D1%8F%20%D0%B2%20scipy.pdf)
 - [Погружаемся в статистику вместе с Python. Часть 3. Тестов много, принцип один](https://habr.com/ru/articles/562380/)
+- [](https://your-scorpion.ru/python-data-analysis/)
+https://www.codecamp.ru/blog/chi-square-goodness-of-fit-test-python/
+https://www.codecamp.ru/blog/plot-chi-square-distribution-python/
+https://www.stratascratch.com/blog/chi-square-test-in-python-a-technical-guide/
