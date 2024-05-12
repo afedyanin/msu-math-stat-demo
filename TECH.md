@@ -21,6 +21,10 @@
 - [Как построить распределение хи-квадрат в Python](https://www.codecamp.ru/blog/plot-chi-square-distribution-python/)
 - [Chi-Square Test in Python: A Technical Guide](https://www.stratascratch.com/blog/chi-square-test-in-python-a-technical-guide/)
 
+## Статистика на Питон
+- [Как построить нормальное распределение в Python (с примерами)](https://www.codecamp.ru/blog/plot-normal-distribution-python/)
+
+
 ## Регрессия
 - [Линейный коэффициент корреляции](http://mathprofi.ru/linejnyj_koefficient_korrelyacii.html)
 - [Уравнение линейной регрессии](http://mathprofi.ru/uravnenie_lineynoy_regressii.html)
