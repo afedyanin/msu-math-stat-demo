@@ -31,3 +31,4 @@
 - [Как создать диаграмму рассеяния с линией регрессии в Python](https://www.codecamp.ru/blog/scatterplot-with-regression-line-python/)
 - [Как выполнить простую линейную регрессию в Python (шаг за шагом)](https://www.codecamp.ru/blog/simple-linear-regression-in-python/)
 - [Линейная регрессия на Python: объясняем на пальцах](https://proglib.io/p/linear-regression)
+- [Как найти критическое значение T в Python](https://www.codecamp.ru/blog/how-to-find-the-t-critical-value-in-python/)
