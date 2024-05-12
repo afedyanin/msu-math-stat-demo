@@ -20,3 +20,14 @@
 - [Пример: критерий согласия хи-квадрат в Python](https://www.codecamp.ru/blog/chi-square-goodness-of-fit-test-python/)
 - [Как построить распределение хи-квадрат в Python](https://www.codecamp.ru/blog/plot-chi-square-distribution-python/)
 - [Chi-Square Test in Python: A Technical Guide](https://www.stratascratch.com/blog/chi-square-test-in-python-a-technical-guide/)
+
+## Регрессия
+- [Линейный коэффициент корреляции](http://mathprofi.ru/linejnyj_koefficient_korrelyacii.html)
+- [Уравнение линейной регрессии](http://mathprofi.ru/uravnenie_lineynoy_regressii.html)
+- [Проверка значимости коэффициента корреляции](http://mathprofi.ru/proverka_znachimosti_lineynoy_modeli.html)
+- [Решения задач: линейная регрессия и коэффициент корреляции](https://www.matburo.ru/ex_ms.php?p1=mslr)
+
+### Регрессия на питон
+- [Как создать диаграмму рассеяния с линией регрессии в Python](https://www.codecamp.ru/blog/scatterplot-with-regression-line-python/)
+- [Как выполнить простую линейную регрессию в Python (шаг за шагом)](https://www.codecamp.ru/blog/simple-linear-regression-in-python/)
+- [Линейная регрессия на Python: объясняем на пальцах](https://proglib.io/p/linear-regression)
